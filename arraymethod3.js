@@ -48,4 +48,4 @@ comments.map(comment => {
     return{...comment, firstName, lastName};
 })
 
-users.filter( user => comments.find(comment => comment.userId === user.id);)
+users.filter( user => comments.find(comment => comment.userId === user.id);
