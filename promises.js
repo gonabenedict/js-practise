@@ -33,4 +33,7 @@ async function init(){
     getPosts();
 }
 
+
 init(); 
+
+1
